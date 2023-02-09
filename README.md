@@ -10,5 +10,5 @@
 1. I have not used any files
 
 # Additional Documentation
-[title] (https://github.com/rileyholmstrom1)
+<https://github.com/rileyholmstrom1>
 This is a link to my GitHub account
