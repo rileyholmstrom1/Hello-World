@@ -1,10 +1,12 @@
 # Hello-World
 # Project Title
-> Understanding GitHub
+*Understanding GitHub*
 # Description
-> This is a project to help better my understanding of GitHub
----
+**This is a project to help better my understanding of GitHub**
+
+----------
+
 # Files Used 
-1. First Item
-2. Second Item
+1. I have not used any files
+
 # Additional Documentation
